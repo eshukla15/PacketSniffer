@@ -1,6 +1,6 @@
 # 🕵️‍♂️ Windows Raw Packet Sniffer
 
-> A low-level Python network packet sniffer built using raw sockets on Windows to understand about tools like wireshark and to gain knowledge about ports and ip addressing.
+> A low-level Python network packet sniffer built using raw sockets on Windows to understand fundamental working of tools like wireshark and to gain knowledge about protocols.
 Sniff. Slice. Analyze.
 
 ---
